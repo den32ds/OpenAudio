@@ -43,6 +43,7 @@ Audio Plugins
 | [Gverb/Gigaverb](http://elements.byethost3.com/plugins.html) | Reverb | Effect | VSTGUI |
 | [Helm](https://github.com/mtytel/helm) | Polyphonic synth with lots of modulation | Instrument | JUCE |
 | [hexter](https://github.com/smbolton/hexter) | Yamaha DX7 modeling FM synth for DSSI | Instrument | DPF |
+| [Harsh Digital Nose](https://web.archive.org/web/20170606044019/http://thepiz.org/plugins/?p=Harsh%20Digital%20Nose) |  Experimental synthesizer that converts two images into two oscillator waveforms and then mixes them in various horrible ways | Instrument | JUCE |
 | [HiLoFilter](https://github.com/teragonaudio/HiLoFilter) | Simple hipass/lopass filter controlled with a single knob | Effect | JUCE |
 | [JuceOPLVSTi](https://github.com/bsutherland/JuceOPLVSTi) | FM synth based on Yamaha OPL2/3 emulation from DOSBox | Instrument | JUCE |
 | [Juno 6](https://sourceforge.net/projects/juno6/) | Roland Juno 6/60 Synthesizer | Instrument |  |
@@ -52,6 +53,7 @@ Audio Plugins
 | [LameVST](https://github.com/Iunusov/LameVST) | LameMP3 as an effect | Effect |  |
 | [mda](https://sourceforge.net/projects/mda-vst/) | FX and virtual instruments for PC and Mac | Misc | (no&nbsp;GUI) |
 | [Mika Micro](https://github.com/tesselode/mika-micro) | Simple subtractive synth | Instrument | WDL-OL |
+| [Mr. Alias 2](https://web.archive.org/web/20170608001408/http://thepiz.org/mralias2/) | Non-bandlimited oscillators which can be transposed near to and beyond the Nyquist frequency. Nice to psychedelic tracks | Instrument | JUCE |
 | [MVerb](https://github.com/martineastwood/mverb) | Studio-quality reverb using the Dattorro’s figure-of-eight reverb structure | Effect | VSTGUI |
 | [NotNotchFilter](https://github.com/teragonaudio/NotNotchFilter) | Performance-oriented filter designed to replace the mid-EQ found in a standard 3-band DJ mixer | Effect | JUCE |
 | [ndc Plugs](http://www.niallmoody.com/ndcplugs/plugins.htm) | VST plugins for Windows and OSX | Misc |  |
